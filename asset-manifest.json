@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/signin-project/static/css/main.31752bdf.css",
+    "main.js": "/signin-project/static/js/main.20424116.js",
+    "index.html": "/signin-project/index.html",
+    "main.31752bdf.css.map": "/signin-project/static/css/main.31752bdf.css.map",
+    "main.20424116.js.map": "/signin-project/static/js/main.20424116.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31752bdf.css",
+    "static/js/main.20424116.js"
+  ]
+}
